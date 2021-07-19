@@ -1,0 +1,20 @@
+{
+  "name": "alkes-public-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fastify": "^3.19.1",
+    "fastify-cors": "^6.0.2",
+    "fastify-express": "^0.3.3",
+    "http-proxy-middleware": "^2.0.1",
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
